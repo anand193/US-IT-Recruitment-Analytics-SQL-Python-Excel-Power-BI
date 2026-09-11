@@ -93,6 +93,54 @@ Recommendations
 - Application-to-offer time should not be interpreted as true
   time-to-hire because joining/placement dates were unavailable.
 
-## 📁 Repository Structure
+## 📊 Power BI Dashboard
 
-...
+### 1. Recruitment Overview
+![Recruitment Overview](images/recruitment_overview.png)
+
+### 2. Recruitment Performance
+![Recruitment Performance](images/recruitment_performance.png)
+
+### 3. Job & Candidate Analysis
+![Job & Candidate Analysis](images/job_candidate_analysis.png)
+
+### 4. Executive Insights & Recommendations
+![Executive Insights](images/executive_insights.png)
+
+---
+
+## 🔍 Key Insights
+
+- 15,000 applications were analyzed across 2,000 job openings.
+- 938 offers were generated, with an overall offer acceptance rate of 74.5%.
+- Recruiter-sourced candidates had the highest offer acceptance rate at 82.1%.
+- Operations represented the largest hiring demand with 991 job openings.
+- Average application-to-offer time was approximately 28.7 days.
+- Average offer salary was approximately $129.9K.
+
+---
+
+## 💡 Business Recommendations
+
+- Improve screening processes to reduce candidate drop-off.
+- Increase focus on high-performing recruitment sources.
+- Investigate lower offer acceptance from LinkedIn.
+- Align recruiting capacity with high-demand role families.
+- Monitor application-to-offer turnaround time.
+
+---
+
+## ⚠️ Limitations
+
+- The dataset is synthetic and privacy-safe.
+- Recruiter-level performance data was not available.
+- Application stage represents the current stage rather than a complete historical funnel.
+- Application-to-offer time is not true time-to-hire because placement/joining dates were unavailable.
+
+---
+
+## 👤 Author
+
+**Anand Mehto**
+
+Aspiring Data Analyst | SQL | Python | Excel | Power BI
