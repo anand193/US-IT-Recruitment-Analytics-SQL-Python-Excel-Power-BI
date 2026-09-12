@@ -105,7 +105,7 @@ Recommendations
 ![Job & Candidate Analysis](images/job_candidate_analysis.png)
 
 ### 4. Executive Insights & Recommendations
-![Executive Insights](images/executive_insights.png)
+![Executive Insights](Power Bi Analysis/EXECUTIVE INSIGHTS & RECOMMENDATIONS.png)
 
 ---
 
