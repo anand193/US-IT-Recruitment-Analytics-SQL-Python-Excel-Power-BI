@@ -99,7 +99,7 @@ Recommendations
 (![US IT Recruitment Overview](Power%20Bi%20Analysis/US%20IT%20RECRUITMENT%20OVERVIEW.png))
 
 ### 2. Recruitment Performance
-![Recruitment Performance](images/recruitment_performance.png)
+(![Recruitment Performance Analysis](Power%20Bi%20Analysis/RECRUITEMENT%20PERFORMANCE%20ANALYSIS.png))
 
 ### 3. Job & Candidate Analysis
 ![Job & Candidate Analysis](images/job_candidate_analysis.png)
