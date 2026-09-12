@@ -102,7 +102,7 @@ Recommendations
 (![Recruitment Performance Analysis](Power%20Bi%20Analysis/RECRUITEMENT%20PERFORMANCE%20ANALYSIS.png))
 
 ### 3. Job & Candidate Analysis
-![Job & Candidate Analysis](images/job_candidate_analysis.png)
+![Job & Candidate Analysis](Power%20Bi%20Analysis/JOB%20%26%20CANDIDATE%20ANALYSIS.png)
 
 ### 4. Executive Insights & Recommendations
 ![Executive Insights](Power Bi Analysis/EXECUTIVE INSIGHTS & RECOMMENDATIONS.png)
