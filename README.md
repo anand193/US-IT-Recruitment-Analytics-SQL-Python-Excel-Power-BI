@@ -96,10 +96,10 @@ Recommendations
 ## 📊 Power BI Dashboard
 
 ### 1. Recruitment Overview
-(![US IT Recruitment Overview](Power%20Bi%20Analysis/US%20IT%20RECRUITMENT%20OVERVIEW.png))
+![US IT Recruitment Overview](Power%20Bi%20Analysis/US%20IT%20RECRUITMENT%20OVERVIEW.png)
 
 ### 2. Recruitment Performance
-(![Recruitment Performance Analysis](Power%20Bi%20Analysis/RECRUITEMENT%20PERFORMANCE%20ANALYSIS.png))
+![Recruitment Performance Analysis](Power%20Bi%20Analysis/RECRUITEMENT%20PERFORMANCE%20ANALYSIS.png)
 
 ### 3. Job & Candidate Analysis
 ![Job & Candidate Analysis](Power%20Bi%20Analysis/JOB%20%26%20CANDIDATE%20ANALYSIS.png)
